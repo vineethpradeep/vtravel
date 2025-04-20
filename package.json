@@ -1,0 +1,14 @@
+{
+  "name": "vtravel",
+  "version": "1.0.0",
+  "description": "Travel website",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass sass/main.scss css/style.css -w"
+  },
+  "author": "Vineeth",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.77.6"
+  }
+}
